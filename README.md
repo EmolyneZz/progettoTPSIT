@@ -7,13 +7,13 @@ Istruzioni: non dovranno essere fatti più file, richiesta del libro, ma bisogne
 
 Aiuti sul codice:
 - Aggiunta di un item/articolo:
-  <div class = "tm-list-item">
+  "<div class = "tm-list-item">
     <img src="img/item.png" class="tm-list-item-img">
     <div class="tm-black-bg tm-list-item-text">
       <h3 class="tm-list-item-name">Espresso <span class="tm-list-item-price">€2.50</span></h3>
       <p class="tm-list-item-description">Miscela arabica di ottima qualità. </p>
     </div>
-  </div>
+  </div>"
 
 Divisione dei ruoli:
 - Project Manager: Emanuele Ansovini
